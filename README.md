@@ -1,6 +1,6 @@
 # Sergiu Nistor
 
-**AI Research engineer** focused on deep learning and scalable ML infrastructure. I'm drawn to the unsolved parts of the field, where the science is still being written and the engineering hasn't caught up yet, and building the systems that make those ideas real.
+**AI Research Engineer** focused on deep learning and scalable ML infrastructure. I'm drawn to the unsolved parts of the field, where the science is still being written and the engineering hasn't caught up yet, and building the systems that make those ideas real.
 
 [![Website](https://img.shields.io/badge/Website-sergiu--nistor.com-black?style=flat-square&logo=firefox)](https://sergiu-nistor.com/)
 
