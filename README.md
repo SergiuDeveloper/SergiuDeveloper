@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-sergiu--nistor.com-black?style=flat-square&logo=firefox)](https://sergiu-nistor.com/)
 
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=jy6BWNoAAAAJ)
+[![Scholar](https://img.shields.io/badge/Scholar-Sergiu%20Nistor-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=jy6BWNoAAAAJ)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sergiu--nistor-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sergiu-nistor-76786014a)
 
