@@ -1,6 +1,6 @@
 # Sergiu Nistor
 
-**Independent ML Researcher** focused on NLP, LLMs, AI safety. I'm drawn to the unsolved parts of the field, where the science is still being written and the engineering hasn't caught up yet, and building the systems that make those ideas real.
+**Independent ML Researcher** focused on NLP, LLMs, AI safety, Neuro-Symbolic AI. I'm drawn to the unsolved parts of the field, where the science is still being written and the engineering hasn't caught up yet, and building the systems that make those ideas real.
 
 [![Website](https://img.shields.io/badge/Website-sergiu--nistor.com-black?style=flat-square&logo=firefox)](https://sergiu-nistor.com/)
 
